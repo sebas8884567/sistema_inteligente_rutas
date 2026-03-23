@@ -68,15 +68,11 @@ Adicionalmente, se genera una ruta alternativa basada en selección aleatoria, l
 
 ## 📹 Video del proyecto
 
-👉 (Pega aquí el link de tu video)
+👉 (https://youtu.be/riH5wPAPK_U?si=6ToVbmm6SEbmYy7C)
+
 
 ---
 
-## 📂 Repositorio
-
-👉 (Este mismo repositorio)
-
----
 
 ## 📌 Autor
 
